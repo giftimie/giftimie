@@ -1,1 +1,1 @@
-Student, future web developer.
+Web developer.
